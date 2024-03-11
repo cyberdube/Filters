@@ -1,0 +1,39 @@
+{
+    "1709980684895440:32542": {
+        "IFileManager": {
+            "path": "Files/File_1709980684895440_32542"
+        }
+    },
+    "1709980684897905:32543": {
+        "IResourceController": {
+            "name": "Lips DL",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1709980684897918:32544",
+            "fileId": "1709980684895440:32542",
+            "originalId": "1709980685051685:32556",
+            "publicId": "1709980685928506:32658",
+            "expected_hash": "4f9ea7abe8ae4cc33d47b95528d7b455"
+        },
+        "IResourceManager": {
+            "uid": "1709980684897918:32544",
+            "name": "Files/File_1709980684895440_32542",
+            "flags": 1
+        }
+    },
+    "1709980685051685:32556": {
+        "IFileManager": {
+            "path": "Files/File_1709980685051685_32556.lsmat"
+        }
+    },
+    "1709980685928506:32658": {
+        "IResourceController": {
+            "public": {
+                "path": "Lips DL.lsmat",
+                "hash": "1485ac83a1b4a70d22bdc50e800fbcce"
+            }
+        }
+    }
+}

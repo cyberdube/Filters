@@ -1,0 +1,39 @@
+{
+    "1709980692232334:33678": {
+        "IFileManager": {
+            "path": "Files/File_1709980692232334_33678"
+        }
+    },
+    "1709980692235421:33679": {
+        "IResourceController": {
+            "name": "Blush DL",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1709980692235428:33680",
+            "fileId": "1709980692232334:33678",
+            "originalId": "1709980692395092:33694",
+            "publicId": "1709980693403212:33799",
+            "expected_hash": "4f9ea7abe8ae4cc33d47b95528d7b455"
+        },
+        "IResourceManager": {
+            "uid": "1709980692235428:33680",
+            "name": "Files/File_1709980692232334_33678",
+            "flags": 1
+        }
+    },
+    "1709980692395092:33694": {
+        "IFileManager": {
+            "path": "Files/File_1709980692395092_33694.lsmat"
+        }
+    },
+    "1709980693403212:33799": {
+        "IResourceController": {
+            "public": {
+                "path": "Blush DL.lsmat",
+                "hash": "2d6204696f3b1b56f8ec57766954a8a2"
+            }
+        }
+    }
+}

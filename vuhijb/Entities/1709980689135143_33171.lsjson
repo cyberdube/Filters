@@ -1,0 +1,79 @@
+{
+    "1709980689130957:33170": {
+        "IFileManager": {
+            "path": "Files/File_1709980689130957_33170.pvr"
+        }
+    },
+    "1709980689135143:33171": {
+        "IResourceController": {
+            "name": "LİP COUNTOUR",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1709980689137252:33172",
+            "fileId": "1709980689130957:33170",
+            "originalId": "1709980689138008:33177",
+            "publicId": "1709980689210589:33184",
+            "expected_hash": "dbc546fdab17e13de79f8cac625a3432",
+            "additional": {
+                "originHash": "1b21774892349224681ebd5b4a3b0f3f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1709980689137252:33172",
+            "name": "Files/File_1709980689130957_33170.jpg",
+            "flags": 1
+        }
+    },
+    "1709980689137252:33172": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "1b21774892349224681ebd5b4a3b0f3f"
+                    },
+                    "v": "1709980699600538:35129"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "399360",
+                "compressedSize": "21250",
+                "extension": "png",
+                "originalRAM": "3181516",
+                "originalSize": "39786",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1709980689168208:33183"
+        }
+    },
+    "1709980689138008:33177": {
+        "IFileManager": {
+            "path": "Files/File_1709980689138008_33177.png"
+        }
+    },
+    "1709980689168208:33183": {
+        "IFileManager": {
+            "path": "Files/File_1709980689168208_33183.png"
+        }
+    },
+    "1709980689210589:33184": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/LİP COUNTOUR.png",
+                "hash": "1b21774892349224681ebd5b4a3b0f3f"
+            }
+        }
+    },
+    "1709980699600538:35129": {
+        "IFileManager": {
+            "path": "Files/File_1709980699600538_35129.pvr"
+        }
+    }
+}

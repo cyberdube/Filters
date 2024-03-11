@@ -1,0 +1,39 @@
+{
+    "1709980696136531:34313": {
+        "IFileManager": {
+            "path": "Files/File_1709980696136531_34313"
+        }
+    },
+    "1709980696139643:34314": {
+        "IResourceController": {
+            "name": "Face DL",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1709980696139653:34315",
+            "fileId": "1709980696136531:34313",
+            "originalId": "1709980696234533:34324",
+            "publicId": "1709980697019696:34449",
+            "expected_hash": "4f9ea7abe8ae4cc33d47b95528d7b455"
+        },
+        "IResourceManager": {
+            "uid": "1709980696139653:34315",
+            "name": "Files/File_1709980696136531_34313",
+            "flags": 1
+        }
+    },
+    "1709980696234533:34324": {
+        "IFileManager": {
+            "path": "Files/File_1709980696234533_34324.lsmat"
+        }
+    },
+    "1709980697019696:34449": {
+        "IResourceController": {
+            "public": {
+                "path": "Face DL.lsmat",
+                "hash": "194b162c3a13fe0722d02eff024efa9f"
+            }
+        }
+    }
+}

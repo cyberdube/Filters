@@ -1,0 +1,79 @@
+{
+    "1709980684624385:32474": {
+        "IFileManager": {
+            "path": "Files/File_1709980684624385_32474.pvr"
+        }
+    },
+    "1709980684632948:32475": {
+        "IResourceController": {
+            "name": "Freckles DL",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1709980684641515:32478",
+            "fileId": "1709980684624385:32474",
+            "originalId": "1709980684643005:32483",
+            "publicId": "1709980684718160:32498",
+            "expected_hash": "5a6730194a683327dbec9d7e5b59866b",
+            "additional": {
+                "originHash": "01cd212a94fdb430eeb6addbf286c2d3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1709980684641515:32478",
+            "name": "Files/File_1709980684624385_32474.png",
+            "flags": 1
+        }
+    },
+    "1709980684641515:32478": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "01cd212a94fdb430eeb6addbf286c2d3"
+                    },
+                    "v": "1709980697107724:34566"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "394224",
+                "compressedSize": "180395",
+                "extension": "png",
+                "originalRAM": "3147680",
+                "originalSize": "529479",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1709980684660327:32487"
+        }
+    },
+    "1709980684643005:32483": {
+        "IFileManager": {
+            "path": "Files/File_1709980684643005_32483.png"
+        }
+    },
+    "1709980684660327:32487": {
+        "IFileManager": {
+            "path": "Files/File_1709980684660327_32487.png"
+        }
+    },
+    "1709980684718160:32498": {
+        "IResourceController": {
+            "public": {
+                "path": "Freckles DL.png",
+                "hash": "01cd212a94fdb430eeb6addbf286c2d3"
+            }
+        }
+    },
+    "1709980697107724:34566": {
+        "IFileManager": {
+            "path": "Files/File_1709980697107724_34566.pvr"
+        }
+    }
+}
