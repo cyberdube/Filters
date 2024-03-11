@@ -1,0 +1,79 @@
+{
+    "1709979071480277:6034": {
+        "IFileManager": {
+            "path": "Files/File_1709979071480277_6034.pvr"
+        }
+    },
+    "1709979071489476:6037": {
+        "IResourceController": {
+            "name": "eyes blue DL",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1709979071498879:6038",
+            "fileId": "1709979071480277:6034",
+            "originalId": "1709979071500617:6043",
+            "publicId": "1709979071706511:6068",
+            "expected_hash": "95037543caa3849530b41cd0f7e3dc54",
+            "additional": {
+                "originHash": "76dc481a341c7a8239b1356ed7f2ba96"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1709979071498879:6038",
+            "name": "Files/File_1709979071480277_6034.png",
+            "flags": 1
+        }
+    },
+    "1709979071498879:6038": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "76dc481a341c7a8239b1356ed7f2ba96"
+                    },
+                    "v": "1709979249438229:25648"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "586915",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "1416015",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1709979071541526:6047"
+        }
+    },
+    "1709979071500617:6043": {
+        "IFileManager": {
+            "path": "Files/File_1709979071500617_6043.png"
+        }
+    },
+    "1709979071541526:6047": {
+        "IFileManager": {
+            "path": "Files/File_1709979071541526_6047.png"
+        }
+    },
+    "1709979071706511:6068": {
+        "IResourceController": {
+            "public": {
+                "path": "eyes blue DL.png",
+                "hash": "76dc481a341c7a8239b1356ed7f2ba96"
+            }
+        }
+    },
+    "1709979249438229:25648": {
+        "IFileManager": {
+            "path": "Files/File_1709979249438229_25648.pvr"
+        }
+    }
+}

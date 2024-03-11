@@ -1,0 +1,79 @@
+{
+    "1709979070763278:5905": {
+        "IFileManager": {
+            "path": "Files/File_1709979070763278_5905.pvr"
+        }
+    },
+    "1709979070769384:5906": {
+        "IResourceController": {
+            "name": "G DL",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1709979070778474:5907",
+            "fileId": "1709979070763278:5905",
+            "originalId": "1709979070781496:5912",
+            "publicId": "1709979070973072:5944",
+            "expected_hash": "e2f5a12f1c4aacba21496657911678dd",
+            "additional": {
+                "originHash": "ab3f3213d810f2fc90aa17a6a19b8653"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1709979070778474:5907",
+            "name": "Files/File_1709979070763278_5905.png",
+            "flags": 1
+        }
+    },
+    "1709979070778474:5907": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a7796271765dc9d13258bc0879df584b"
+                    },
+                    "v": "1709979203133422:20116"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1179648",
+                "compressedSize": "1044418",
+                "extension": "png",
+                "originalRAM": "9437184",
+                "originalSize": "2772249",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1709979070834382:5923"
+        }
+    },
+    "1709979070781496:5912": {
+        "IFileManager": {
+            "path": "Files/File_1709979070781496_5912.png"
+        }
+    },
+    "1709979070834382:5923": {
+        "IFileManager": {
+            "path": "Files/File_1709979070834382_5923.png"
+        }
+    },
+    "1709979070973072:5944": {
+        "IResourceController": {
+            "public": {
+                "path": "G DL.png",
+                "hash": "ab3f3213d810f2fc90aa17a6a19b8653"
+            }
+        }
+    },
+    "1709979203133422:20116": {
+        "IFileManager": {
+            "path": "Files/File_1709979203133422_20116.pvr"
+        }
+    }
+}

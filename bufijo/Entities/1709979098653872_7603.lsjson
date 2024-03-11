@@ -1,0 +1,42 @@
+{
+    "1709979098639835:7597": {
+        "IFileManager": {
+            "path": "Files/File_1709979098639835_7597.jpg"
+        }
+    },
+    "1709979098653872:7603": {
+        "IResourceController": {
+            "name": "Serenity preset Dl",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1709979098774739:7619",
+            "fileId": "1709979098639835:7597",
+            "originalId": "1709979098775595:7624",
+            "publicId": "1709979098789578:7627",
+            "expected_hash": "3443b7447e5b2f7dd5dc937f65a0b8bb",
+            "additional": {
+                "originHash": "3443b7447e5b2f7dd5dc937f65a0b8bb"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1709979098774739:7619",
+            "name": "Files/File_1709979098639835_7597.jpg",
+            "flags": 1
+        }
+    },
+    "1709979098775595:7624": {
+        "IFileManager": {
+            "path": "Files/File_1709979098775595_7624.jpg"
+        }
+    },
+    "1709979098789578:7627": {
+        "IResourceController": {
+            "public": {
+                "path": "Serenity preset Dl.jpg",
+                "hash": "3443b7447e5b2f7dd5dc937f65a0b8bb"
+            }
+        }
+    }
+}
