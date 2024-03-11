@@ -1,0 +1,79 @@
+{
+    "1708662738305542:8809": {
+        "IFileManager": {
+            "path": "Files/File_1708662738305542_8809.pvr"
+        }
+    },
+    "1708662738309859:8813": {
+        "IResourceController": {
+            "name": "bryan-goff-IuyhXAia8EA-unsplash",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1708662738317807:8814",
+            "fileId": "1708662738305542:8809",
+            "originalId": "1708662738318760:8819",
+            "publicId": "1708662738400789:8831",
+            "expected_hash": "4e49466c8c5d2cb943c808936c375afc",
+            "additional": {
+                "originHash": "05f051b7129eb871baa260d295da17c6"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1708662738317807:8814",
+            "name": "Files/File_1708662738305542_8809.jpg",
+            "flags": 1
+        }
+    },
+    "1708662738317807:8814": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "fcb1b86b6c449fb2f3987fccb6a3baa8"
+                    },
+                    "v": "1708662823659891:16695"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "684656",
+                "extension": "jpg",
+                "originalRAM": "8388608",
+                "originalSize": "233470",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1708662738353267:8825"
+        }
+    },
+    "1708662738318760:8819": {
+        "IFileManager": {
+            "path": "Files/File_1708662738318760_8819.jpg"
+        }
+    },
+    "1708662738353267:8825": {
+        "IFileManager": {
+            "path": "Files/File_1708662738353267_8825.jpg"
+        }
+    },
+    "1708662738400789:8831": {
+        "IResourceController": {
+            "public": {
+                "path": "bryan-goff-IuyhXAia8EA-unsplash.jpg",
+                "hash": "05f051b7129eb871baa260d295da17c6"
+            }
+        }
+    },
+    "1708662823659891:16695": {
+        "IFileManager": {
+            "path": "Files/File_1708662823659891_16695.pvr"
+        }
+    }
+}
