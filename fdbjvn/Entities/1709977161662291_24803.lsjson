@@ -1,0 +1,21 @@
+{
+    "1709977161662291:24803": {
+        "RenderOrderComponent": true
+    },
+    "1709977161662621:24804": {
+        "InspectorComponent": {
+            "Component.EyeColorVisual": {
+                "eyeColorInfo": {
+                    "color": {
+                        "w": "0.300000012",
+                        "x": "0.200000003",
+                        "y": "0.698039234",
+                        "z": "0.501960814"
+                    },
+                    "mode": "1",
+                    "textureUid": "1709976979917947:6152"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1709976979906783:6148": {
+        "IFileManager": {
+            "path": "Files/File_1709976979906783_6148.pvr"
+        }
+    },
+    "1709976979911481:6149": {
+        "IResourceController": {
+            "name": "S 2 DL",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1709976979917947:6152",
+            "fileId": "1709976979906783:6148",
+            "originalId": "1709976979918559:6157",
+            "publicId": "1709976979970191:6162",
+            "expected_hash": "5dcb39b1bb63a9a6dbe442258c1ab68c",
+            "additional": {
+                "originHash": "0f61f9d04083f55afa57ebd095db7731"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1709976979917947:6152",
+            "name": "Files/File_1709976979906783_6148.jpg",
+            "flags": 1
+        }
+    },
+    "1709976979917947:6152": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "0f61f9d04083f55afa57ebd095db7731"
+                    },
+                    "v": "1709977109536238:16839"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "39200",
+                "compressedSize": "24505",
+                "extension": "jpg",
+                "originalRAM": "313600",
+                "originalSize": "15724",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1709976979935482:6161"
+        }
+    },
+    "1709976979918559:6157": {
+        "IFileManager": {
+            "path": "Files/File_1709976979918559_6157.jpg"
+        }
+    },
+    "1709976979935482:6161": {
+        "IFileManager": {
+            "path": "Files/File_1709976979935482_6161.jpg"
+        }
+    },
+    "1709976979970191:6162": {
+        "IResourceController": {
+            "public": {
+                "path": "S 2 DL.jpg",
+                "hash": "0f61f9d04083f55afa57ebd095db7731"
+            }
+        }
+    },
+    "1709977109536238:16839": {
+        "IFileManager": {
+            "path": "Files/File_1709977109536238_16839.pvr"
+        }
+    }
+}
