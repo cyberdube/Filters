@@ -1,0 +1,79 @@
+{
+    "1710129189247955:6055": {
+        "IFileManager": {
+            "path": "Files/File_1710129189247955_6055.pvr"
+        }
+    },
+    "1710129189253782:6056": {
+        "IResourceController": {
+            "name": "M1 DL",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1710129189264344:6057",
+            "fileId": "1710129189247955:6055",
+            "originalId": "1710129189265379:6062",
+            "publicId": "1710129189369967:6071",
+            "expected_hash": "c6a452489cc297a47d9915e284554605",
+            "additional": {
+                "originHash": "e32faf5817915044ad5841795f8d211f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1710129189264344:6057",
+            "name": "Files/File_1710129189247955_6055.png",
+            "flags": 1
+        }
+    },
+    "1710129189264344:6057": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "42837408e5b585f029237cc8f81805f5"
+                    },
+                    "v": "1710129193812737:6638"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1572864",
+                "compressedSize": "152627",
+                "extension": "png",
+                "originalRAM": "12582912",
+                "originalSize": "401743",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1710129189312869:6068"
+        }
+    },
+    "1710129189265379:6062": {
+        "IFileManager": {
+            "path": "Files/File_1710129189265379_6062.png"
+        }
+    },
+    "1710129189312869:6068": {
+        "IFileManager": {
+            "path": "Files/File_1710129189312869_6068.png"
+        }
+    },
+    "1710129189369967:6071": {
+        "IResourceController": {
+            "public": {
+                "path": "M1 DL.png",
+                "hash": "e32faf5817915044ad5841795f8d211f"
+            }
+        }
+    },
+    "1710129193812737:6638": {
+        "IFileManager": {
+            "path": "Files/File_1710129193812737_6638.pvr"
+        }
+    }
+}

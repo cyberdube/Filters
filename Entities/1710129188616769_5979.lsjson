@@ -1,0 +1,38 @@
+{
+    "1710129188610801:5978": {
+        "IFileManager": {
+            "path": "Files/File_1710129188610801_5978.js"
+        }
+    },
+    "1710129188616769:5979": {
+        "IResourceController": {
+            "name": "Script DL",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1710129188616810:5980",
+            "fileId": "1710129188610801:5978",
+            "publicId": "1710129188634826:5985",
+            "expected_hash": "e2d4b0baaf98dca35b033439a4cf7e4d"
+        },
+        "IResourceManager": {
+            "uid": "1710129188616810:5980",
+            "name": "Files/File_1710129188610801_5978.js",
+            "flags": 1
+        }
+    },
+    "1710129188616810:5980": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1710129188634826:5985": {
+        "IResourceController": {
+            "public": {
+                "path": "Script DL.js",
+                "hash": "e2d4b0baaf98dca35b033439a4cf7e4d"
+            }
+        }
+    }
+}

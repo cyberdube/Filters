@@ -1,0 +1,39 @@
+{
+    "1710129212787090:9427": {
+        "IFileManager": {
+            "path": "Files/File_1710129212787090_9427"
+        }
+    },
+    "1710129212789075:9428": {
+        "IResourceController": {
+            "name": "Smoothing",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1710129212789360:9429",
+            "fileId": "1710129212787090:9427",
+            "originalId": "1710129212832150:9438",
+            "publicId": "1710129213188013:9544",
+            "expected_hash": "63b01ba97765448dcb16125b9ba360e9"
+        },
+        "IResourceManager": {
+            "uid": "1710129212789360:9429",
+            "name": "Files/File_1710129212787090_9427",
+            "flags": 1
+        }
+    },
+    "1710129212832150:9438": {
+        "IFileManager": {
+            "path": "Files/File_1710129212832150_9438.lsmat"
+        }
+    },
+    "1710129213188013:9544": {
+        "IResourceController": {
+            "public": {
+                "path": "Smoothing.lsmat",
+                "hash": "09cb96b1bb2ee0fd52b43ad985d7b110"
+            }
+        }
+    }
+}
